@@ -1,0 +1,13 @@
+<flash_project name="virutal" version="1">
+    <project_file path="./virutal.fla" filetype="fla" profile="" />
+    <project_file path="./.\mx\video\FLVPlayback.as" filetype="as" />
+    <project_file path="./.\mx\video\VideoPlayer.as" filetype="as" />
+    <project_file path="./.\mx\video\INCManager.as" filetype="as" />
+    <project_file path="./.\mx\events\EventDispatcher.as" filetype="as" />
+    <project_file path="./.\mx\video\VideoError.as" filetype="as" />
+    <project_file path="./.\mx\video\UIManager.as" filetype="as" />
+    <project_file path="./.\mx\utils\Delegate.as" filetype="as" />
+    <project_file path="./.\mx\video\SMILManager.as" filetype="as" />
+    <project_file path="./.\mx\video\NCManager.as" filetype="as" />
+    <project_file path="./.\mx\video\CuePointManager.as" filetype="as" />
+</flash_project>
